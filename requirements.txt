@@ -4,3 +4,4 @@ plotly
 requests
 ydata-profiling
 setuptools
+ipython
